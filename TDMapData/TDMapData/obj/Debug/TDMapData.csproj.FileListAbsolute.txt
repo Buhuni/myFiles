@@ -1,0 +1,7 @@
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\bin\Debug\TDMapData.exe.config
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\bin\Debug\TDMapData.pdb
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\obj\Debug\TDMapData.csprojResolveAssemblyReference.cache
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\obj\Debug\TDMapData.exe
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\obj\Debug\TDMapData.pdb
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\obj\Debug\TDMapData.csproj.GenerateResource.Cache
+D:\Curtin Stuff\DS Labs\Assesment 1\TDMapData\TDMapData\obj\Debug\TDMapData.Properties.Resources.resources
